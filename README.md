@@ -1,3 +1,5 @@
+![](docs/Images/cv.jpg)
+
 # Computer_Vision
 
 :sparkles::fireworks::tada: Important points about this Repository!!!!! :tada::fireworks::sparkles: 
