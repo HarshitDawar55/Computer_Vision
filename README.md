@@ -39,4 +39,4 @@
 
 # LICENSE
 
-To check the license visit [LICENSE](https://github.com/HarshitDawar55/Computer_Vision/blob/master/LICENSE.md)
+To check the license visit [LICENSE](https://github.com/HarshitDawar55/Computer_Vision/blob/master/docs/LICENSE.md)
